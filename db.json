@@ -3,22 +3,22 @@
     {
       "name": "Karlis",
       "surname": "Gribulis",
-      "course": 3
+      "course": "3"
     },
     {
       "name": "Marija",
       "surname": "Soldatenko",
-      "course": 2
+      "course": "2"
     },
     {
       "name": "Antons",
       "surname": "Pograbnijs",
-      "course": 1
+      "course": "1"
     },
     {
       "name": "Vasya",
       "surname": "Kriznieks",
-      "course": 2
+      "course": "2"
     }
   ]
 }
